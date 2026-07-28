@@ -1,0 +1,10 @@
+namespace HautevilleHouse
+namespace BimonoidalSkewMonoidalDuoidalCategoriesCanonicalLaneLean
+
+structure BimonoidalSkewMonoidalDuoidalObject where
+  skewStructure : Prop
+  duoidalCompatibility : Prop
+  conclusion : skewStructure ∧ duoidalCompatibility
+
+end BimonoidalSkewMonoidalDuoidalCategoriesCanonicalLaneLean
+end HautevilleHouse
